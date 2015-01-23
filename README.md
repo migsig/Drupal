@@ -1,2 +1,2 @@
 # Shopify
-Shopify Collections Infinite Scroll
+Shopify Skeleton Key
